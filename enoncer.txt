@@ -2,5 +2,5 @@ Créer 2 fichier dans le dossier du projet :
 Exercice1.py < mettre ce qu'on veux dedans
 Enoncer.txt 
 
-Créér une branche pour le groupe
+Créér une branche pour le groupe -> TOL
 
