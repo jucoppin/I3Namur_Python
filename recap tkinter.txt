@@ -1,0 +1,15 @@
+1) import tkinter as tk
+
+2) Tkinter est découpé en widgets (Label, Frame, Tk)
+
+3) Pour placer (hors Tk), il faut préciser son master pour éviter que tkinter le fasse à votre place
+
+4) Lors de la création d'un widgets, vous avez la possiblité de préciser des options
+
+5) Si un widget doit être utilisé plus tard => Vous devez le stocker dans une variable
+
+6) Pack / Grid sont utlisés pour aligner les éléments dans un widget parent
+-> Le pack / grid est reset dans chaque parent
+-> Un parent ne peut avoir qu'un seul type de placement
+
+7) Pour les inputs de base vous avez un widget : Entry
