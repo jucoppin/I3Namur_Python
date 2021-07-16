@@ -125,3 +125,5 @@ Mevrowww
 # Widgets (Entry, Label) => GRID
 # main.grid_columnconfigure(0, weight=1)
 main.mainloop()
+
+print("Ceci est un message de flora")
