@@ -3,3 +3,7 @@ Faites moi une fenêtre avec une frame et un label.
 La couleur du label doit être rouge
 La couleur de background de la frame doit être une couleur que vous choississez (au hasard si vous voulez utiliser random)
 
+
+Exo 2:
+Réaliser une interface d'encodage pour l'animalerie
+Pour la partie avancé : ListBox
